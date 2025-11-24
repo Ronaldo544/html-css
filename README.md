@@ -1,1 +1,5 @@
-# html-css
+This repository is a comprehensive collection of HTML and CSS projects designed for beginners and anyone looking to strengthen their web development skills. It covers the fundamentals of HTML, including headings, paragraphs, lists, links, images, forms, and semantic elements that form the structure of a webpage. Alongside, it demonstrates how to use CSS to style these elements, including colors, fonts, layouts, spacing, borders, and simple animations.
+
+The projects in this repository also explore practical web design techniques, such as responsive design, flexbox, and grid layout, allowing webpages to look good on both desktop and mobile devices. Each project includes clear, commented code to help learners understand how HTML and CSS work together to create visually appealing and well-structured websites.
+
+Whether you’re just starting out or want a reference to practice your skills, this repository provides a hands-on, step-by-step approach to building beautiful and functional webpages from scratch.
