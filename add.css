@@ -1,0 +1,56 @@
+.codingbanner {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.codingbanner {
+    background-image: url('codingbanner.avif');
+    min-height: 400px;
+}
+
+.coding coding-orange {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-orange {
+    background: color #282e34;
+    color: #ddd;
+}
+
+.ctext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.ctext .border {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+
+}
+
+.ctext .border .trans {
+    background-color: transparent;
+}
+
+@media(max-width:567px) {
+    .codingbanner {
+        background-attachment: scroll;
+    }
+
+}
+
+
+.codingbanner {
